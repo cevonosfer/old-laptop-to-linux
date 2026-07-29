@@ -1,3 +1,4 @@
+```
                                          INTERNET
                                              │
                                   Public IP / Dynamic DNS
@@ -14,16 +15,16 @@
 NAS w/trueNAS          Backup              Main PC                 Admin PC
                                              │
                                              │
-                                          Proxmox 
+                                          Proxmox
                                              │
  ┌───────────────────────────────────────────┼──────────────────────────────────────────────┐
- │                                                                                             
- │  General                                                                           
- │  ├── Portainer                                                                              
- │  ├── Vaultwarden                                                                               
- |                                                                         
  │
- │  Self Hosting 
+ │  General
+ │  ├── Portainer
+ │  ├── Vaultwarden
+ |
+ │
+ │  Self Hosting
  │  ├── Seafile
  │  ├── Jellyfin
  |  ├── Wikipedia
@@ -69,3 +70,4 @@ NAS w/trueNAS          Backup              Main PC                 Admin PC
           └───────────┼────────────┘
                       │
                   Grafana Dashboards
+```
