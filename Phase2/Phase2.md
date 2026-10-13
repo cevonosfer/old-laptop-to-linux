@@ -1,6 +1,6 @@
-# PHASE2
+# Phase2 : The Deployment
 
-# Homepage Deployment
+## Homepage Deployment
 
 As i added more services, remembering individual IP addresses and ports became increasingly inconvenient.
 
@@ -23,7 +23,7 @@ The issue was solved by adding the allowed hosts setting in the yaml file and re
 
 ---
 
-# Uptime Kuma Deployment
+## Uptime Kuma Deployment
 
 After Homepage was operational, I deployed Uptime Kuma to introduce monitoring capabilities.
 
@@ -52,7 +52,7 @@ The monitoring setup now provides visibility into service availability and serve
 
 ---
 
-# Current Status
+## Current Status
 
 Completed components:
 
@@ -80,7 +80,7 @@ Proxmox VE
 
 ---
 
-# Next Planned Services
+## Next Planned Services
 
 Future additions currently being considered:
 

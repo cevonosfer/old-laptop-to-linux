@@ -1,4 +1,4 @@
-# Homelab Progress
+# Phase2.7 : The Monitoring Stack
 
 ## Prometheus and Grafana
 
